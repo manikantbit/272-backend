@@ -1,0 +1,10 @@
+flask
+twython
+flask_cors
+pymongo
+pillow
+google-api-python-client
+flask_dance
+flask_pymongo
+aiohttp
+oauth2client
